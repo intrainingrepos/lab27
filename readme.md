@@ -7,7 +7,6 @@
 - [code sandbox repo](https://codesandbox.io/s/923w80q99o)
 - [github repo](https://github.com/niesssiobhan/lab27)
 - [AWS bucket hosted site](http://lab27niess.s3-website-us-east-1.amazonaws.com/)
-- [travis]()
 
 ### Modules
 #### `modulename.js`
